@@ -1,5 +1,5 @@
 Lab 1 - HTML Review and Git Hosting 
-Lab 2 - Number Tricks
+Lab 2 - Number Tricks (https://nmahern.github.io/Number-Tricks/
 Lab 3 - Number Tricks Enhanced
 Lab 4 - MadLibs
 Lab 5 - Debugging
